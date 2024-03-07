@@ -7,8 +7,7 @@
     "test": "gifthub"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maspoe/cryptogifthub.git"
+    "type": "git"
   },
   "keywords": [
     "crypto",
